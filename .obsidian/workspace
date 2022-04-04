@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hihihi2.md",
+            "file": "home.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hihihi2.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,11 @@
   },
   "active": "0e2685a13e1af565",
   "lastOpenFiles": [
+    "home.md",
     "hihihi2.md",
     "hihihi.md",
     "Pasted image 20220404100907.png",
     "Untitled 1.md",
-    "Untitled.md",
     "templates/other-template.md",
     "шот с телочкой.md",
     "templates/shot-template.md",
