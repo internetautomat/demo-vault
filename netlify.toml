@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/internetautomat/demo-vault.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
@@ -13,7 +13,7 @@ LANDING_PAGE = "home"
 LANDING_TITLE = "My Second Brain"
 PYTHON_VERSION = "3.8"
 # Site repo URL
-REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola"
+REPO_URL = "https://github.com/internetautomat/demo-vault"
 # Site title in navbar
 SITE_TITLE = "Example Site"
 # Site URL
