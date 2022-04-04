@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "b2e5e4722cb79ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e2685a13e1af565",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hihihi2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d062f33bd6671c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "a232b20ac3c26b97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4dbb03b45dedf4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "19af710e4dce89cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "землет #shot",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "7ca0cc0d9f9c6b17",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd118abb78aee432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf5f347626bcd1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hihihi2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0e2685a13e1af565",
+  "lastOpenFiles": [
+    "hihihi2.md",
+    "hihihi.md",
+    "Pasted image 20220404100907.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "templates/other-template.md",
+    "шот с телочкой.md",
+    "templates/shot-template.md",
+    "какой то файл.md",
+    "шот с кратером.md"
+  ]
+}
