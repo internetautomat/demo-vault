@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "hihihi2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "hihihi2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,9 @@
   },
   "active": "0e2685a13e1af565",
   "lastOpenFiles": [
-    "home.md",
     "hihihi2.md",
     "hihihi.md",
+    "home.md",
     "Pasted image 20220404100907.png",
     "Untitled 1.md",
     "templates/other-template.md",
